@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Mortgage Calculator</string>
+<string name="action_settings">Settings</string>
+<string name="hello">Hello world!</string>
+<string name="CalculateMortgage">Calculate Mortgage</string>
+    <string name="Fifteen">15</string>
+    <string name="Twenty">20</string>
+    <string name="Thirty">30</string>
+
+</resources>
